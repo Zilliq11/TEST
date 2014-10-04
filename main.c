@@ -6,6 +6,6 @@ int main()
 
     printf("Poooooo !!\n");
     printf("Comment t'appelles-tu mon petit?");
-    printf("Moi, je m'appelle J-E ! <3");
+    printf("Moi, je m'appelle J-E ! <3 lol");
     return 0;
 }
