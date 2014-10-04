@@ -3,7 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
+
+    printf("Poooooo !!\n");
     printf("Comment t'appelles-tu mon petit?");
     printf("Moi, je m'appelle J-E ! <3");
     return 0;
