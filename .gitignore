@@ -72,3 +72,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.txt~
+
+# CodeBlocks files
+*.layout
+*.depend
+
